@@ -13,6 +13,7 @@
 		238651E81B4CEC5D0064E396 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 238651E71B4CEC5D0064E396 /* Images.xcassets */; };
 		238651EB1B4CEC5D0064E396 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 238651E91B4CEC5D0064E396 /* LaunchScreen.xib */; };
 		238651F71B4CEC5D0064E396 /* lit_count1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238651F61B4CEC5D0064E396 /* lit_count1Tests.swift */; };
+		238652011B4CF9A70064E396 /* cat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 238652001B4CF9A70064E396 /* cat.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		238651F01B4CEC5D0064E396 /* lit_count1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lit_count1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		238651F51B4CEC5D0064E396 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		238651F61B4CEC5D0064E396 /* lit_count1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lit_count1Tests.swift; sourceTree = "<group>"; };
+		238652001B4CF9A70064E396 /* cat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cat.mp3; path = ../../../Desktop/cat.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		238651DD1B4CEC5D0064E396 /* lit_count1 */ = {
 			isa = PBXGroup;
 			children = (
+				238652001B4CF9A70064E396 /* cat.mp3 */,
 				238651E01B4CEC5D0064E396 /* AppDelegate.swift */,
 				238651E21B4CEC5D0064E396 /* ViewController.swift */,
 				238651E41B4CEC5D0064E396 /* Main.storyboard */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				238651E61B4CEC5D0064E396 /* Main.storyboard in Resources */,
+				238652011B4CF9A70064E396 /* cat.mp3 in Resources */,
 				238651EB1B4CEC5D0064E396 /* LaunchScreen.xib in Resources */,
 				238651E81B4CEC5D0064E396 /* Images.xcassets in Resources */,
 			);
